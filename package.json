@@ -1,0 +1,22 @@
+{
+  "name": "nodeapplication",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish448/simpleNodeApplication.git"
+  },
+  "keywords": [
+    "simplenodeapplication"
+  ],
+  "author": "vishang soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vish448/simpleNodeApplication/issues"
+  },
+  "homepage": "https://github.com/vish448/simpleNodeApplication#readme"
+}
